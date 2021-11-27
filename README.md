@@ -20,12 +20,15 @@ compile by g\++
 
 ## demo
 origin
+
 ![](https://i.imgur.com/YVZAoQu.png) 
 
 output
+
 ![](https://i.imgur.com/BejM8XV.png)
 
 verify
+
 ![](https://i.imgur.com/q8FexN6.png)
 
 ## SAT Queries
@@ -48,6 +51,7 @@ verify
 \<the puzzle you want to solve, "." if the grid is empty, "b" for black, "w" for white >
 
 eg.
+
 ![](https://i.imgur.com/XaXbB5a.png)
 
 format:
